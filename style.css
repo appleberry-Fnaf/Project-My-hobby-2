@@ -1,0 +1,12 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: inherit;
+    background-color: rosybrown;
+}
+
+img {
+    width: 300px;
+    margin: 25px;
+    height: 300px;
+}
